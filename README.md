@@ -7,8 +7,7 @@
 
 All you need to do is add the javascript and css files and follow this simple example to get it working.
 
-```
-HTML
+```html
 <div class="nav-container">
 	<ul class="nav nav-tabs nav-justified" role="tablist">
 		<li class="active" data-content="#div-1">
